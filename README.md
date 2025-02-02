@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Content creation, storytelling, blogging, and YouTube monetization strategies**
 
-- 📫 How to reach me **kodahye819@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
