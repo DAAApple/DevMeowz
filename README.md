@@ -1,6 +1,6 @@
 ## About me 👩🏻‍💻
 
-<h1 align="left">Hi 👋, I'm Nomadoo-create</h1>
+<h1 align="left">Hi 👋, I'm DevMeowz</h1>
 <h3 align="left">A passionate frontend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomadoo-create&label=Profile%20views&color=0e75b6&style=flat" alt="nomadoo-create" /> </p>
