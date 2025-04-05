@@ -1,13 +1,13 @@
 ## About me 👩🏻‍💻
 
-<h1 align="left">Hi 👋, I'm DevMeowz</h1>
+<h1 align="left">Hi 👋, I'm DAAAple</h1>
 <h3 align="left">A passionate frontend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomadoo-create&label=Profile%20views&color=0e75b6&style=flat" alt="DevMeowz" /> </p>
 
 - 🔭 I’m currently working on **Telus AI**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DATA ANALYST**
 
 - 👯 I’m looking to collaborate on **Python Programming Challenges and React Projects**
 
